@@ -16,9 +16,23 @@
               <li><strong>Type "code ." in the terminal which redirects the folder to VS Code</strong></li>
               <li><strong>Save all the files and make sure to have live server extension in your VS Code.</strong></li>
               <li><strong>Run the "index.html" file by live server.</strong></li>
-              <li><strong>BANG!! the game window is here. Use "key-left arrow" to start the player.</strong></li>
+              <li><strong>BANG!! the game window is here. Use "key-up arrow" to start the player.</strong></li>
             </ul>
  <section id="credits">
+            <h2>Features:</h2>
+            <ul>
+                <li><strong>Real-Time 3D Graphics</li>
+<li>Doll Movement and Behavior</li>
+<li>Player Movement and Control</li>
+<li>Timer-Based Gameplay</li>
+<li>Winning and Losing Conditions</li>
+<li>Progress Bar</li>
+<li>Responsive Design</li>
+<li>Game Loop Management</li>
+<li>Scalability for Future Enhancements</strong></li>
+            </ul>
+</body>
+    <section id="credits">
             <h2>Tech Stack:</h2>
             <ul>
                 <li><strong>Three.js :</strong> a JavaScript library that allows developers to create 3D graphics and animations for the web.</li>
